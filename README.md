@@ -8,6 +8,7 @@ have aimed to solve this problem using deep learning. But, for achieving good
 performance, they require highly processed inputs, along with additional elements,
 such as semantic maps. To overcome abnormal colors and to improve image quality
 with good colorization we are using Generative Adversarial Network (GAN).
+
 The process of colorization using GANs involves two neural networks: a gen-
 erator network and a discriminator network. The generator network is trained to
 generate synthetic images that are similar to the input images, while the discrimi-
